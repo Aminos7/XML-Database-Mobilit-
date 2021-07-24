@@ -1,0 +1,123 @@
+# Req1 : Donner la liste des écoles partenaires par ordre alphabétique
+
+<listeEcolespartenaires>
+{for $eco in collection("ProjetXML")/Mobilités/offre/Ecolepartenaire
+order by $eco
+return
+<Ecolepartenaire>{$eco/text()}</Ecolepartenaire>
+}
+</listeEcolespartenaires>
+
+# Req2 : Donner le nombre et les noms des options de chaque offre
+
+<offres>
+{for $off in collection("ProjetXML")/Mobilités/offre
+return
+<Ecolepartenaire>
+<nom>{$off/Ecolepartenaire/text()}</nom>
+<NbrOptions>{count($off/Option)}</NbrOptions>
+{for $pa in $off/Option/Parcours
+return
+<option>{$pa/text()}</option>
+}
+</Ecolepartenaire>
+}
+</offres>
+
+# Req3 : Pour chaque école partenaire ,retourner le nombre de chaque type de mobilités
+
+<offres>
+{for $off in collection("ProjetXML")/Mobilités/offre
+return
+<Ecolepartenaire>
+<nom>{$off/Ecolepartenaire/text()}</nom>
+<NbrDD>{count($off/Option[TypeMobilité="Double
+Diplomation"]/NbPlaces)}</NbrDD>
+<NbrSimple1sem>{sum($off/Option[TypeMobilité="Simple 1
+semestre"]/NbPlaces)}</NbrSimple1sem>
+<NbrSimple2sem>{sum($off/Option[TypeMobilité="Simple 2
+semestres"]/NbPlaces)}</NbrSimple2sem>
+<NbrMaster>{sum($off/Option[TypeMobilité="Master"]/NbPlaces)}
+</NbrMaster>
+</Ecolepartenaire>
+}
+</offres>
+
+# Req4 : Retourner pour chaque offre , l’option avec le maximum nombre de places
+
+<offres-option-max>
+{for $off in collection("ProjetXML")/Mobilités/offre
+return
+<Ecolepartenaire>
+<nom>{$off/Ecolepartenaire/text()}</nom>
+{let $max:=max($off/Option/NbPlaces)
+for $par in $off/Option[NbPlaces=$max]/Parcours
+return
+<option>{$par/text()}</option>
+}
+</Ecolepartenaire>
+}
+</offres-option-max>
+
+# Req5 : Retourner les offres qui couvrent toutes les filières de l’école
+
+<offre>
+{for $off in collection(ProjetXML)/Mobilités/offre
+where count(distinct-values($off/Option/INPT/filliere/nomfil))=7
+return $off/Ecolepartenaire
+}
+</offre>
+
+# Req6 : Retourner le nombre de mobilités pour chaque filière
+
+<Nb-etu-en-mob-par-fill>
+{let $data:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="DATA"]/etudiant),
+$aseds:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="ASEDS"]/etudiant),
+$iccn:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="ICCN"]/etudiant),
+$sud:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="SUD"]/etudiant),
+$sesnum:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="SESNum"]/etudiant),
+$amoa:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="AMOA"]/etudiant),
+$smart:=count(collection(ProjetXML)/Mobilités/offre/Option/INPT/filliere[nomfil="SMART"]/etudiant)
+return
+<fillieres>
+<data>{$data}</data>
+<aseds>{$aseds}</aseds>
+<iccn>{$iccn}</iccn>
+<sud>{$sud}</sud>
+<sesnum>{$sesnum}</sesnum>
+<amoa>{$amoa}</amoa>
+<smart>{$smart}</smart>
+</fillieres>
+}
+</Nb-etu-en-mob-par-fill>
+
+# Req7 :  Retourner les noms des admis , leurs filliere au sein de l’INPT et l’école partenaire affectée
+
+<Admis>
+{for $off in collection(ProjetXML)/Mobilités/offre
+return
+for $etu in $off/Option/INPT/filliere/etudiant
+where $etu/reponse/text()="Admis"
+return
+<eleve>
+<nom>{$etu/nom/text()}</nom>
+<prenom>{$etu/prenom/text()}</prenom>
+<filliereINPT>{$off/Option/INPT/filliere[etudiant=$etu]/nomfil/text()}
+</filliereINPT>
+<Ecolepartenaire>{$off/Ecolepartenaire/text()}</Ecolepartenaire>
+</eleve>
+}
+</Admis>
+
+# Req8 : Retourner une école partenaire avec le plus grand nombre de candidats non admis
+
+<Eco-non-Admis>
+{(for $off in collection(ProjetXML)/Mobilités/offre
+let $eco:=$off/Ecolepartenaire
+order by count($off/Option/INPT/filliere/etudiant[reponse='Non Admis'])
+descending
+return $eco
+)[position()=1]
+}
+</Eco-non-Admis>
+
