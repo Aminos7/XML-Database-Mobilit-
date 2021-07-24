@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Mobilités">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="offre" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="offre">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Ecolepartenaire" type="xs:string"/>
+        <xs:element ref="Option" maxOccurs="unbounded"/>
+        <xs:element name="Observation" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Option">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Parcours" type="xs:string"/>
+        <xs:element name="NbPlaces" type="xs:string"/>
+        <xs:element name="TypeMobilité" type="xs:string"/>
+        <xs:element ref="INPT"/>
+        <xs:element name="Observation" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="INPT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="filliere" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="filliere">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nomfil" type="xs:string"/>
+        <xs:element ref="etudiant" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="etudiant">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="prenom" type="xs:string"/>
+        <xs:element name="email" type="xs:string"/>
+        <xs:element name="reponse" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

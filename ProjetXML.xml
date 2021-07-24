@@ -1,0 +1,1294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Mobilités SYSTEM "file:/C:/Users/DELL/Desktop/ProjetDTD.dtd">
+<Mobilités>
+  <offre>
+    <Ecolepartenaire>Université de Nice</Ecolepartenaire>
+    <Option>
+      <Parcours>Science in Ubiquitous Networking and computing</Parcours>
+      <NbPlaces>7</NbPlaces>
+      <TypeMobilité>Master</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Bouanani</nom>
+            <prenom>Hajar</prenom>
+            <email>hajar.bouanani@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Ghazouani</nom>
+            <prenom>Imad</prenom>
+            <email>imad.ghazouani@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Lachkar</nom>
+            <prenom>Oussama</prenom>
+            <email>oussama.lachkar@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Bouchibti</nom>
+            <prenom>Marwane</prenom>
+            <email>marwane.bouchibti@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Barakat</nom>
+            <prenom>Rajae</prenom>
+            <email>rajae.barakat@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Arfaoui</nom>
+            <prenom>Najat</prenom>
+            <email>najat.arfaoui@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Roukh</nom>
+            <prenom>Hicham</prenom>
+            <email>hicham.roukh@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature en ligne Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>UBO</Ecolepartenaire>
+    <Option>
+      <Parcours>Logiciels pour les Systèmes Embarqués</Parcours>
+      <NbPlaces>5</NbPlaces>
+      <TypeMobilité>Master</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Hachimi</nom>
+            <prenom>Yahya</prenom>
+            <email>yahya.hachimi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Achour</nom>
+            <prenom>Souaad</prenom>
+            <email>souaad.achour@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Bounou</nom>
+            <prenom>Anouar</prenom>
+            <email>anouar.bounou@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Idrissi</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.idrissi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Kadmiri</nom>
+            <prenom>Alae</prenom>
+            <email>alae.kadmiri@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature via RI Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>INSA Rennes</Ecolepartenaire>
+    <Option>
+      <Parcours>Informatique</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Ibrahimi</nom>
+            <prenom>Saad</prenom>
+            <email>saad.ibrahimi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Chennani</nom>
+            <prenom>Salwa</prenom>
+            <email>salwa.chennani@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Génie mathématiques</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Ayachi</nom>
+            <prenom>Fahd</prenom>
+            <email>fahd.ayachi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes et réseaux de communication</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Salih</nom>
+            <prenom>Mouaad</prenom>
+            <email>mouaad.salih@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Bettioui</nom>
+            <prenom>Achraf</prenom>
+            <email>achraf.bettioui@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes et réseaux de communication</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Hajjouji</nom>
+            <prenom>Salmane</prenom>
+            <email>salmane hajjouji@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Zemmouri</nom>
+            <prenom>Selma</prenom>
+            <email>selma.zemmouri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Boubrahimi</nom>
+            <prenom>Azizi</prenom>
+            <email>aziz.boubrahimi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Elfarh</nom>
+            <prenom>Driss</prenom>
+            <email>driss.elfarh@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature en ligne Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>IMT Atlantique</Ecolepartenaire>
+    <Option>
+      <Parcours>Informatique et réseaux</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Bouazza</nom>
+            <prenom>Hamid</prenom>
+            <email>hamid.bouazza@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Fatih</nom>
+            <prenom>Yassmine</prenom>
+            <email>yassmine.fatih@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Chaoui</nom>
+            <prenom>Ahmed</prenom>
+            <email>ahmed.chaoui@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Taki</nom>
+            <prenom>Oualid</prenom>
+            <email>oualid.taki@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Robotique électronique automatique télécommunications systèmes embarqués</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Tazi</nom>
+            <prenom>Meryem</prenom>
+            <email>meryem.tazi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes Industriels, organisations</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Benarfa</nom>
+            <prenom>Hicham</prenom>
+            <email>hicham.benarfa@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Lehlou</nom>
+            <prenom>Samir</prenom>
+            <email>samir.lehlou@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature en ligne Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>Ensimag</Ecolepartenaire>
+    <Option>
+      <Parcours>Ingénierie des SI</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Haddadi</nom>
+            <prenom>Naoufal</prenom>
+            <email>naoufal.haddadi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Mouradi</nom>
+            <prenom>Jaouad</prenom>
+            <email>jaouad.mouradi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes embarqués et Objets connectés</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Abdi</nom>
+            <prenom>Salma</prenom>
+            <email>salma.abdi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature en ligne Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>ESISAR</Ecolepartenaire>
+    <Option>
+      <Parcours>Electronique Informatique et Système</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Slimani</nom>
+            <prenom>Fouad</prenom>
+            <email>fouad.slimani@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Electronique Informatique et Système</Parcours>
+      <NbPlaces>3</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Andaloussi</nom>
+            <prenom>Khadija</prenom>
+            <email>khadija.andaloussi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Baghdadi</nom>
+            <prenom>Samir</prenom>
+            <email>samir.baghdadi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Benmoussa</nom>
+            <prenom>Amal</prenom>
+            <email>amal.benmoussa@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Informatique, Réseaux et Cybersécurité</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Daoudi</nom>
+            <prenom>Abir</prenom>
+            <email>abir.daoudi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature en ligne Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>EMSE</Ecolepartenaire>
+    <Option>
+      <Parcours>Ingénieur Civil des Mines</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Mouhssine</nom>
+            <prenom>Ilham</prenom>
+            <email>ilham.mouhssine@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Sami</nom>
+            <prenom>Youssef</prenom>
+            <email>youssef.sami@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Ingénieur Spécialisé Microélectronique Informatique et Nouvelles technologies </Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Taleb</nom>
+            <prenom>Taha</prenom>
+            <email>taha.taleb@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Asri</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.asri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature via RI Deadline 31 mars Possibilité de suivre des masters payants en parallèle</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>INSA CVL</Ecolepartenaire>
+    <Option>
+      <Parcours>Sécurité et Technologies Informatiques</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Hammani</nom>
+            <prenom>Salma</prenom>
+            <email>salma.hammani@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Mekkouri</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.mekkouri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Labiad</nom>
+            <prenom>Ismail</prenom>
+            <email>ismail.labiad@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>LACHHAB</nom>
+            <prenom>Walid</prenom>
+            <email>walid.lachhab@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+      <Observation>Places à confirmer Canditature en ligne Deadline 31 mars Possibilité de suivre le Master Informatique Mobile Intelligente et Sécurisée payant en parallèle</Observation>
+    </Option>
+    <Option>
+      <Parcours>Maîtrise des Risques Industriels</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Hakam</nom>
+            <prenom>Mouad</prenom>
+            <email>mouad.hakam@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Génie des Systèmes Industriels</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Kanber</nom>
+            <prenom>Hiba</prenom>
+            <email>hiba.kanbar@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Maîtrise des Risques Industriels</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Sadouk</nom>
+            <prenom>Ilyass</prenom>
+            <email>ilyass.sadouk@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Kacem</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.kacem@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Places à confirmer Canditature en ligne Deadline 31 mars Possibilité de suivre le Master Informatique Mobile Intelligente et Sécurisée payant en parallèle</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>Télécom Saint Etienne (TSE)</Ecolepartenaire>
+    <Option>
+      <Parcours>Electroniques / systèmes embarqués</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Souilmi</nom>
+            <prenom>Hachem</prenom>
+            <email>hachem.souilmi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Ouaddane</nom>
+            <prenom>Imane</prenom>
+            <email>imane.ouaddane@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Image / 3D, vidéo et intelligence artificielle</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Mansouri</nom>
+            <prenom>Abdellah</prenom>
+            <email>abdellah.mansouri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Électronique / Conception de systèmes numériques</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Marih</nom>
+            <prenom>Amina</prenom>
+            <email>amina.marih@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Bouzidi</nom>
+            <prenom>Soufiane</prenom>
+            <email>soufiane.bouzidi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Réseaux / Convergence, QoS et sécurité des réseaux</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Abkari</nom>
+            <prenom>Sara</prenom>
+            <email>sara.akbari@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Réseaux / Virtualisation des disponibilités</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Ouardi</nom>
+            <prenom>Youness</prenom>
+            <email>youness.wardi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Informatique / Informatique distribuée</Parcours>
+      <NbPlaces>3</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Snidi</nom>
+            <prenom>Nabil</prenom>
+            <email>nabil.snidi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Sadik</nom>
+            <prenom>Doha</prenom>
+            <email>doha.sadik@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Yani</nom>
+            <prenom>Othamne</prenom>
+            <email>othmane.yani@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature via RI Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>ENSEEIHT</Ecolepartenaire>
+    <Option>
+      <Parcours>Sciences du numérique</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Baha</nom>
+            <prenom>Widad</prenom>
+            <email>widad.baha@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Kadri</nom>
+            <prenom>Amine</prenom>
+            <email>amine.kadri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Hadda</nom>
+            <prenom>Youssef</prenom>
+            <email>youssef.hadda@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Chaiboub</nom>
+            <prenom>Oussama</prenom>
+            <email>oussama.chaiboub@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature en ligne Deadline 31 mars Possibilité d suivre les Masters REOC et SSIR payants en parallèle</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>ENSEIRB-MATMECA</Ecolepartenaire>
+    <Option>
+      <Parcours>Apprentissage Image Signal Communications</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Razoki</nom>
+            <prenom>Hamza</prenom>
+            <email>hamza.razoki@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Faraji</nom>
+            <prenom>Oussama</prenom>
+            <email>oussama.faraji@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Génie logiciel des réseaux et des télécoms</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Asloune</nom>
+            <prenom>Mustapha</prenom>
+            <email>mustapha.asloune@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Biti</nom>
+            <prenom>Mouhssine</prenom>
+            <email>mouhssine.biti@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Réseaux, Sécurité et objets Connectés </Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Sbai</nom>
+            <prenom>Khalil</prenom>
+            <email>khalil.sbai@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Ouadii</nom>
+            <prenom>Abdellah</prenom>
+            <email>abdellah.ouadii@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature en ligne Département Télécoms Deadline 31 mars </Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>IMT Lille Douai</Ecolepartenaire>
+    <Option>
+      <Parcours>Tronc commun + Parcous UV de spécialité en : Informatique Systèmes de communication Economie Gestion</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Meftahi</nom>
+            <prenom>Ziad</prenom>
+            <email>ziad.meftahi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Toumi</nom>
+            <prenom>Anas</prenom>
+            <email>anas.toumi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Klou</nom>
+            <prenom>Youssef</prenom>
+            <email>youssef.klou@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Jmili</nom>
+            <prenom>Omar</prenom>
+            <email>omar.jmili@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Canditature via RI Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>Télécom SudParis (TSP)</Ecolepartenaire>
+    <Option>
+      <Parcours>High Tech imaging</Parcours>
+      <NbPlaces>3</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Assabir</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.assabir@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Jouhri</nom>
+            <prenom>Aya</prenom>
+            <email>aya.jouhri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Zghidi</nom>
+            <prenom>Abir</prenom>
+            <email>abir.zghidi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Déploiement des SI</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Lotfi</nom>
+            <prenom>Fatima</prenom>
+            <email>fatima.lotfi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Kabbouri</nom>
+            <prenom>Wafaa</prenom>
+            <email>wafaa.kabbouri@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes Embarqués</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Chadli</nom>
+            <prenom>Anas</prenom>
+            <email>anas.chadli@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Places à confirmer Canditature via RI Deadline 31 mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>INSA Lyon</Ecolepartenaire>
+    <Option>
+      <Parcours>Télécommunications, Services et Usages</Parcours>
+      <NbPlaces>3</NbPlaces>
+      <TypeMobilité>Simple avec proposition de Double Diplomation aux meilleurs candidats</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Bakir</nom>
+            <prenom>Oualid</prenom>
+            <email>oualid.bakir@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Kalim</nom>
+            <prenom>Amal</prenom>
+            <email>amal.kalim@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Medrar</nom>
+            <prenom>Kenza</prenom>
+            <email>kenza.medrar@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature en ligne Deadline 31 mars </Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>Télécom Paris</Ecolepartenaire>
+    <Option>
+      <Parcours>3D et Systèmes Intéractifs</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Zakour</nom>
+            <prenom>Issam</prenom>
+            <email>issam.zakour@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Lazaar</nom>
+            <prenom>Akram</prenom>
+            <email>akram.lazaar@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Algèbre appliquée : cryptographie, information quantique, codage</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Laaroussi</nom>
+            <prenom>Amina</prenom>
+            <email>amina.laaroussi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Nadrani</nom>
+            <prenom>Ismail</prenom>
+            <email>ismail.nadrani@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Grandes infrastructures numériques</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Raiss</nom>
+            <prenom>Adil</prenom>
+            <email>adil.raiss@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Image</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Mounir</nom>
+            <prenom>Aymane</prenom>
+            <email>aymane.mounir@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Marchés, organisations, données, stratégies</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>AMOA</nomfil>
+          <etudiant>
+            <nom>Alilou</nom>
+            <prenom>Fouad</prenom>
+            <email>fouad.alilou@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Maths, info théorique et RO</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Atimi</nom>
+            <prenom>Saad</prenom>
+            <email>saad.atimi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Modélisation aléatoire et calcul scientifique</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 1 semestre</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Boukhari</nom>
+            <prenom>Badr</prenom>
+            <email>badr.boukhari@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Réseaux mobiles et Internet des objets</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SUD</nomfil>
+          <etudiant>
+            <nom>Abbadi</nom>
+            <prenom>Khaoula</prenom>
+            <email>khaoula.abbadi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Science de données</Parcours>
+      <NbPlaces>2</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Jawhar</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.jawhar@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Snoussi</nom>
+            <prenom>Amine</prenom>
+            <email>amine.snoussi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes embarqués</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Master</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Sraidi</nom>
+            <prenom>Youssef</prenom>
+            <email>youssef.sraidi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Systèmes logiciels répartis</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Bartakh</nom>
+            <prenom>Hassane</prenom>
+            <email>hassane.bartakh@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Sécurité des réseaux et infrastructures informatiques</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Simple 2 semestres</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ICCN</nomfil>
+          <etudiant>
+            <nom>Tamouh</nom>
+            <prenom>Mehdi</prenom>
+            <email>mehdi.tamouh@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Télécoms : des données aux systèmes</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Master</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SMART</nomfil>
+          <etudiant>
+            <nom>Benjid</nom>
+            <prenom>Hassna</prenom>
+            <email>hassna.benjid@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Option>
+      <Parcours>Traitement du signal pour l’intelligence artificielle</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Errami</nom>
+            <prenom>Ayoub</prenom>
+            <email>ayoub.errami@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature via RI Deadline 13 mars Les étudiants doivent choisir 2 filières parmi 14</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>UdeS</Ecolepartenaire>
+    <Option>
+      <Parcours>Génie Electrique</Parcours>
+      <NbPlaces>1</NbPlaces>
+      <TypeMobilité>Double Diplomation + Cheminement doctorat</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>SESNum</nomfil>
+          <etudiant>
+            <nom>Badi</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.badi@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature via RI Deadline 1er mars</Observation>
+  </offre>
+  <offre>
+    <Ecolepartenaire>Laval</Ecolepartenaire>
+    <Option>
+      <Parcours>Maitrise en informatique</Parcours>
+      <NbPlaces>4</NbPlaces>
+      <TypeMobilité>Double Diplomation</TypeMobilité>
+      <INPT>
+        <filliere>
+          <nomfil>ASEDS</nomfil>
+          <etudiant>
+            <nom>Ouhadi</nom>
+            <prenom>Ayoub</prenom>
+            <email>ayoub.ouhadi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Zennou</nom>
+            <prenom>Hicham</prenom>
+            <email>hicham.zennou@gmail.com</email>
+            <reponse>Non Admis</reponse>
+          </etudiant>
+        </filliere>
+        <filliere>
+          <nomfil>DATA</nomfil>
+          <etudiant>
+            <nom>Bigi</nom>
+            <prenom>Mohammed</prenom>
+            <email>mohammed.bigi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+          <etudiant>
+            <nom>Rachadi</nom>
+            <prenom>Marwa</prenom>
+            <email>marwa.rachadi@gmail.com</email>
+            <reponse>Admis</reponse>
+          </etudiant>
+        </filliere>
+      </INPT>
+    </Option>
+    <Observation>Candidature via RI Deadline 13 mars 2A année maîtrise payante</Observation>
+  </offre>
+</Mobilités>

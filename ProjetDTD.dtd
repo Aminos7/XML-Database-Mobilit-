@@ -1,0 +1,16 @@
+<!ELEMENT Mobilités (offre+)>
+<!ELEMENT offre (Ecolepartenaire, Option+, Observation)>
+<!ELEMENT Ecolepartenaire (#PCDATA)>
+<!ELEMENT Option (Parcours, NbPlaces, TypeMobilité, INPT, Observation?)>
+<!ELEMENT Parcours (#PCDATA)>
+<!ELEMENT NbPlaces (#PCDATA)>
+<!ELEMENT TypeMobilité (#PCDATA)>
+<!ELEMENT INPT (filliere+)>
+<!ELEMENT filliere (nomfil, etudiant+)>
+<!ELEMENT nomfil (#PCDATA)>
+<!ELEMENT etudiant (nom, prenom, email, reponse)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT reponse (#PCDATA)>
+<!ELEMENT Observation (#PCDATA)>
