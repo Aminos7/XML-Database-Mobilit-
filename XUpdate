@@ -1,0 +1,32 @@
+# Req1 : Diminuer pour chaque option le nombre de places offertes
+
+for $op in collection('ProjetXML')/Mobilités/offre/Option return
+copy $cop:=$op
+modify(replace value of node $cop/NbPlaces with
+$cop/NbPlaces/text()-1,rename node $cop/NbPlaces as "NvNbPlaces")
+return
+<offre>
+{$cop/Parcours}
+{$op/NbPlaces}
+{$cop/NvNbPlaces}
+</offre>
+
+# Req2 : Supprimer les étudiants non admis
+
+for $etudiant in
+collection('ProjetXML')/Mobilités/offre/Option/INPT/filliere/etudiant return
+copy $cetudiant := $etudiant
+modify delete node $cetudiant[reponse='Non Admis']/*
+return $cetudiant
+
+# Req3 : Insérer l’attribut rep=’oui’ pour les étudiants admis
+
+for $etudiant in
+collection('ProjetXML')/Mobilités/offre/Option/INPT/filliere/etudiant
+where $etudiant/reponse='Admis'
+return insert node attribute {'rep'} {'oui'} into $etudiant
+
+# Req4 : Remplacer l’email de l’étudiant Mohammed Badi par
+
+replace value of node
+collection('ProjetXML')/Mobilités/offre/Option/INPT/filliere/etudiant[nom ="Badi"]/email with "mohammed.badi@udes.com"
